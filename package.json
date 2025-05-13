@@ -4,7 +4,8 @@
   "description": "Bid For Pokemon then play against competitive AI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/Ranaah05/Pokemon-Battle-SImulator/issues"
   },
-  "homepage": "https://github.com/Ranaah05/Pokemon-Battle-SImulator#readme"
+  "homepage": "https://github.com/Ranaah05/Pokemon-Battle-SImulator#readme",
+  "dependencies": {
+    "@pkmn/dex": "^0.9.35",
+    "@pkmn/sets": "^5.1.2",
+    "@pkmn/sim": "^0.9.35"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
 }
