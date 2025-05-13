@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-battle-simulator",
+  "version": "1.0.0",
+  "description": "Bid For Pokemon then play against competitive AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranaah05/Pokemon-Battle-SImulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranaah05/Pokemon-Battle-SImulator/issues"
+  },
+  "homepage": "https://github.com/Ranaah05/Pokemon-Battle-SImulator#readme"
+}
